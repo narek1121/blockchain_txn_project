@@ -22,7 +22,7 @@
 ```bash
 
 # Клонировать репозиторий
-git clone <repository_url>
+git clone https://github.com/narek1121/blockchain_txn_project.git
 cd blockchain_txn_project
 
 # Создать и активировать виртуальное окружение
